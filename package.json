@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "understanding-typescript",
   "version": "1.0.0",
   "description": "Understanding TypeScript Course Setup",
